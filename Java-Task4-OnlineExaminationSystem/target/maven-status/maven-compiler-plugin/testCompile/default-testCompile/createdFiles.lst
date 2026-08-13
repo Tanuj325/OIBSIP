@@ -1,0 +1,4 @@
+com\oasis\exam\ResultServiceTest.class
+com\oasis\exam\QuestionRepositoryTest.class
+com\oasis\exam\ExamServiceTest.class
+com\oasis\exam\AuthenticationServiceTest.class
